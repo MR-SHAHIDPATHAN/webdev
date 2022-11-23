@@ -1,0 +1,47 @@
+
+
+
+/* body{
+  font-size: 5px;
+} */
+
+h2{
+  font-size: 10px;
+}
+
+#heading{
+  /* text-transform: lowercase; */
+  /* text-transform: uppercase; */
+  /* text-transform: capitalize; */
+
+  font-size: 10rem;
+
+}
+
+
+
+div{
+  background-color: red;
+  /* height: 50vh;
+  width: 50vw; */
+
+  
+}
+
+
+
+.parent{
+  width: 70%;
+  height: 300px;
+  background-color: red;
+}
+
+
+.child{
+  width: 70%;
+  height: 50%;
+  background-color: blue;
+  
+
+}
+

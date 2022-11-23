@@ -1,0 +1,36 @@
+
+*{
+  /* background-color: yellow; */
+
+}
+
+body{
+  /* background-color: red; */
+}
+
+
+
+
+p{
+  color: orange;
+
+}
+
+
+#demo{
+  color: red;
+}
+
+.heading{
+  color: rgb(106, 255, 0);
+}
+
+table,tr,td{
+  border: 1px solid red;
+}
+
+#demo1 > p{
+  color: blue;
+}
+
+
