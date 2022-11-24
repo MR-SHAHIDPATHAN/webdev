@@ -1,0 +1,79 @@
+.parent_blue{
+  width: 70%;
+  height: 700px;
+  background-color: rgb(156, 156, 255);
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-bottom: 50px;
+
+  padding-top: 100px;
+  padding-left: 250px;
+
+ 
+  
+}
+
+
+.child_white{
+  width: 600px;
+  background-color: white;
+  height: 400px;
+
+ 
+  border: 1px solid red;
+}
+
+
+h1{
+  /* border: 1px solid red; */
+  margin-left: 200px;
+  color: blue;
+  font-weight: bold;
+  font-family: cursive;
+
+}
+
+form > label {
+  margin-left: 80px;
+
+}
+
+form > input {
+  margin-left: 80px;
+  padding: 10px;
+  width: 70%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: none;
+  outline: none;
+  background-color: rgb(214, 211, 211);
+  border-radius: 5px;
+}
+
+.checkbox{
+  /* border: 1px solid red; */
+  margin-left: 80px;
+  cursor: pointer;
+}
+
+
+.checkbox > span {
+  margin-left: 210px;
+  color: blue;
+}
+
+
+button{
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 70%;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  cursor: pointer;
+
+  
+}
