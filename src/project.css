@@ -16,8 +16,17 @@
 
 .child_white{
   width: 600px;
-  background-color: white;
+  /* background-color: white; */
   height: 400px;
+  /* background-image: linear-gradient(red,orange,blue); */
+  /* background-image: radial-gradient(rgb(12, 16, 93),orange , green); */
+  background-image: url("https://cdn.pixabay.com/photo/2018/04/05/14/09/sunflowers-3292932__340.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* background-size: contain; */
+  background-size: cover;
+  
+
 
  
   border: 1px solid red;
